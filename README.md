@@ -1,16 +1,19 @@
-## Hi there 👋
+👩‍💻 Seher Kutlu | Data Scientist
+Hi there! I'm Seher Kutlu, a passionate Data Scientist currently working in the industry.
+I enjoy exploring data, building models, and turning insights into actionable outcomes.
 
-<!--
-**seherkutlu/seherkutlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 What I’m currently working on:
 
-Here are some ideas to get you started:
+Improving my skills in machine learning algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring backend development with Java
+
+Hands-on with data analysis, database design, and Python scripting
+
+📌 Connect with me:
+
+💼 LinkedIn
+
+✍️ Medium
+
+error-wait
