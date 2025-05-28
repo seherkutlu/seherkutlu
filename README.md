@@ -1,14 +1,16 @@
-👩‍💻 Seher Kutlu | Data Scientist
-Hi there! I'm Seher Kutlu, a passionate Data Scientist currently working in the industry.
+👩‍💻 **Seher Kutlu | Data Scientist**
+
+Hi there! I'm Seher Kutlu, a passionate Data Scientist currently working in the industry.  
 I enjoy exploring data, building models, and turning insights into actionable outcomes.
 
-🔍 What I’m currently working on:
+🔍 **What I’m currently working on:**
 
-Improving my skills in machine learning algorithms
+- Improving my skills in machine learning algorithms & time series forecasting  
+- Backend development with Python and FastAPI  
+- Database design and writing complex SQL queries  
+- Data analysis and reporting  
+- Exploring backend development with Java
 
-Exploring backend development with Java
-
-Hands-on with data analysis, database design, and Python scripting
 
 ## 🛠️ Technologies
 
