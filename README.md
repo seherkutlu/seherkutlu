@@ -20,7 +20,7 @@ I enjoy exploring data, building models, and turning insights into actionable ou
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
 </p>
 
-📌 Connect with me:
+📌 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seher-kutlu-482922199/)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@seherkutluu)
 
